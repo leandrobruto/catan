@@ -1,0 +1,2 @@
+CHANGED,/home/Leandro/AndroidStudioProjects/Mapa1/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/leandro/mapa1/ActMain$Tela$override.class
+CHANGED,/home/Leandro/AndroidStudioProjects/Mapa1/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
